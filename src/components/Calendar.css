@@ -80,6 +80,7 @@
   display: flex;
   flex-direction: column;
   width: 500px;
+  align-items: center;
 }
 
 .side-heading {
@@ -121,6 +122,11 @@
   height: 20px;
   padding: 10px;
 }
+
+.end-btn{
+  padding: 0 100px 40px;
+}
+
 .side-buttons {
   display: flex;
   flex-direction: row;

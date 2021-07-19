@@ -95,7 +95,9 @@ function Calendar() {
                             })}
                         </div>
                     </div>
+                    <div className='end-btn'>
                     <button className='btn-nxt' onClick={increaseActive}>Next</button>
+                    </div>
                 </div>
             </div>
         </>
