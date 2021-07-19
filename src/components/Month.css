@@ -1,0 +1,32 @@
+.month-wrapper {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  width: 740px;
+  justify-content: space-evenly;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  letter-spacing: 0.065em;
+  color: #424040;
+  margin-left: 10px;
+}
+
+.month-container {
+  display: flex;
+  width: 70%;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.month-btn {
+    width: 111px;
+    height: 100px;
+    border-radius: 5px;
+}
+.month-text{
+    margin:0;
+}
